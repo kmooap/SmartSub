@@ -10038,3 +10038,22 @@ http://205.196.81.159:443/	request_failed
 
 === 2026-08-01 21:57:14 - 失效订阅 (1 个) ===
 https://api.kuke-sub.com/s/4697d3419c8bb2a152aafbd981ecdc5d	http_403
+
+=== 2026-08-02 05:03:07 - 失效订阅 (14 个) ===
+https://dingyue.bbec.cc/dingyue/efa7266eb83921069778d78eb5938203	http_403
+https://ikun520.live/	request_failed
+https://ikun520.live	request_failed
+https://m78xy.sbs	http_403
+https://m78xy.sbs/	http_403
+http://104.18.37.228:443/	http_400
+http://www.ignitelimit.com:443/	http_400
+http://104.18.1.1:443/	http_400
+http://one-for-all.levikogjgfdd.ir:443/	http_400
+http://204.168.172.119:8443/	request_failed
+http://130.49.77.3:443/	request_failed
+http://millionaire.levikogjgfdd.ir:443/	http_400
+http://gr5.levikogjgfdd.ir:443/	request_failed
+http://194.242.129.162:2550/	request_failed
+
+=== 2026-08-02 05:03:47 - 失效订阅 (1 个) ===
+https://srfux4zuwq.qinyues4.cc/5ef430af5b56abc014330269fd045864	request_failed
