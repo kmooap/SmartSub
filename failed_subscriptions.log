@@ -10209,3 +10209,18 @@ http://205.252.xxx.xxx/	http_409
 
 === 2026-08-10 04:45:55 - 失效订阅 (1 个) ===
 https://xx.pat-law.net/sub/djMsMjUzMTM2LDE3ODE0NDIzNTU50d35f463e	http_404
+
+=== 2026-08-11 04:53:08 - 失效订阅 (10 个) ===
+https://P3Z9s943PD6VV0jx.yuji.homes	request_failed
+https://reference-url-citation.invalid/1	request_failed
+https://reference-url-citation.invalid/0	request_failed
+https://www.cromite.org/?utm_source=chatgpt.com	request_failed
+https://tineye.com/	http_403
+https://B2n.ir/pn6629	http_403
+https://P3Z9s943PD6VV0jx.yuji.homes/	request_failed
+https://cdn4.telesco.pe/file/61f31176e4.mp4?token=P0fksyPJ2kZbBDja-9tbKVfgVZcrdhHjQbhg1ZnckxeE3xf7l8ITKGszdwImkDtsqczwlnc9-j6hPnVBpTNCaF3_3AJtJMN4qUIAHPZfdqVJ85XbJSANd83eASfYZf83ADfQDJhrWF68at_7QpKl8S3LXogO4GmGPfkNfm3_uedsWvjXhD_cGDnYqHFrGZNJais5aB8Yio0I804IZwmPRdDIufc9HnpnZJcb2aip7GySeTMiO9XeYOWaVCtnkiIAOzs5QZnxxBRGigcgFFoxarcn67N_6ePCAAPnxYkOhKH1BDvqUN9mpcR-9oEvNXAZhZX9NO4TPUekJ-RCfus5iA	http_500
+http://yuntong.org/	request_failed
+https://cdn4.telesco.pe/file/24980a57ba.mp4?token=kAeo0yn2zckZmLlT-P-YQzWjKiZT_0W87lNFtCiblyN9RuYNBQlUztWUBLliYFxdlRESvOw9gQxz_mNVnZBxu9TeUgvUin9NAIblC5wml9CGqGxhMWArpoO-D9ihJ6eWoXRgNiSlWZc7k6FsuT6oIVK-bPwrwib4vzJH-QFycPFTvYVfg0fFXcGaOhwno6bJsaZEe9fcWLlKRatw0GYnlD5UOgeT9CUI6iXmsgEaUn7QtqySphIRAyFNU938VVZM-kw4yBd2GDfwM1hsDd-mBtEwnAaP6sO9ATGDb-ixgbLrc-rfjRkDCqjEP3WrhqH4hrS3bp4DBnyiCGnDe03B1g	http_500
+
+=== 2026-08-11 04:53:59 - 失效订阅 (1 个) ===
+https://api-qw.gonghailin.xin/7e1c2a94fbd30658c4a8d1ef92b7ac03?token=7ddb8e509959db71cc5e7a46a2ac79e8	http_403
