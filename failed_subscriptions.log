@@ -10363,3 +10363,20 @@ https://raw.githubusercontent.com/0i0/deepme-crawler/main/crawled.repos/Z.txt	ht
 
 === 2026-08-18 04:35:47 - 失效订阅 (1 个) ===
 https://eggyun.cc/study/v3/eggcloud?token=a9716b5ae9184505f2de144228e9bc1c	http_403
+
+=== 2026-08-19 04:33:01 - 失效订阅 (11 个) ===
+https://d.koo1.de5.net/biying/5c388bc5ec42a1e602b0dbfe226d30dd	http_403
+https://d105039.lvcha.me/?ch=105039	request_failed
+https://is.domainforsub.work/sub/f19186636cf0adc0	http_403
+https://kaze1.aisaka-taiga.com/oosaka/fef62e2e66bf3692d6b2301ac352e59e	http_403
+https://api.qihangj.shop/api/v1/client/subscribe?token=617476d8b37b1bb7d23fc835241a1492	http_403
+http://xxxxx.onion/	request_failed
+https://api.sushi3.cloud/sushi/6ad622be288cabb665e98824670d17d7	http_403
+https://reference-url-citation.invalid/3	request_failed
+https://45.134.9.41:443?sni=991cc80f13caf81d3426ddebb2da7f49-240d6105b6ef86f0.apache-iv.com#1%F0%9F%8E%88@oneclickvpnkeys	request_failed
+https://cdn4.telesco.pe/file/64db82310d.mp4?token=Hy_I1FCUM4109loa83gea3f6_vNgbegGJqAa5r-b-ZLbXwc5tzEVmgPj0zYJIJGb5cz4xvmNBBABy6wNhIZLc81lxuK98YwnI90DtzEuMJOHDpmEV_FU0aNzKMAyl7MtMMoZYgqA8CYCKvLgUgchim25XFN3bWi-f1zAeAnxVHfPEJ0lGDZMpkSVHjXjKHGcoqZFhmi9qOESldIRxhm0rDGcNn4fCut697Rh8mVw3CkpPDFYXk_rxW0wyWKChBoV_l1R_uWaLd_J_-UA0YGP7yvKoz38FfRFztfm2BiG8WyUzepba9VdcVb_HQs4NBbrP3kSEE2cIQ1e_tqedhB1ZQ	http_500
+https://cdn4.telesco.pe/file/QbipD_9-SEm70XyK96SBqvfN_JqzQc_-OKheSRsy2k4Llc010-rYcipAgwRGrD9DKFLwK5bqZz-kuz_-Zbuml9nP692PYLLRAO8hzX0pKCWdeFp3zbi8pOS6IFQc2_7JICF0P7gicPE9sHD8EJj_Q-RznsoqZD_CCJi_6XaRcE6xYMJqMzFs9M49ku8G_EAiq4APohc2Up8azqJVBffQ0KJzYMxc6OcIDfim3qY8xiDMAqxAu1M9C2032WtkEqPFJHemlOnJuyhuQxHP4x08JLXkMle_cEbWGt_zjq72DLo9qRxLhsmfAj5rK3avO0CenkxSj1gmR-uPUf8os5nJjQ	http_500
+
+=== 2026-08-19 04:33:44 - 失效订阅 (2 个) ===
+https://v2rayse.com/fs/public/20260502/free-node-share-0800.yaml	request_failed
+https://raw.githubusercontent.com/Leon406/SubCrawler/main/sub/share/v2	request_failed
