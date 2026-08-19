@@ -10380,3 +10380,24 @@ https://cdn4.telesco.pe/file/QbipD_9-SEm70XyK96SBqvfN_JqzQc_-OKheSRsy2k4Llc010-r
 === 2026-08-19 04:33:44 - 失效订阅 (2 个) ===
 https://v2rayse.com/fs/public/20260502/free-node-share-0800.yaml	request_failed
 https://raw.githubusercontent.com/Leon406/SubCrawler/main/sub/share/v2	request_failed
+
+=== 2026-08-20 04:37:12 - 失效订阅 (15 个) ===
+http://gboard.dev/s/2e9b7b0390fc4c37c0a30ef0b237aaa3	http_403
+https://svip.ttyun.eu.org/x/VejDYtdryS3W?t=auto	http_404
+http://%E3%80%90GitHub.com/	request_failed
+https://sus.clodom.link/message/api/sourlist/fa46769fc27da043303c7d5ad3c0771b	http_403
+http://UTC%EF%BC%8CGitHub.com/	request_failed
+http://gboard.dev/s/0f9fe17a3cf968ebd3ee2c3d84b724be	http_403
+https://tgz.heidong.cyou/i/HfcNIZbC	http_404
+https://b105062.lvcha.me/?ch=105062	request_failed
+https://kaze1.aisaka-taiga.com/oosaka/e198094e3e8fc21de1ebcc2491d7c992	http_403
+https://reference-url-citation.invalid/4	request_failed
+https://www.reddit.com/r/GTA6unmoderated/comments/1vso75h/flash_cyberleek_has_the_full_developmental_built/?utm_source=chatgpt.com	http_403
+https://www.reddit.com/r/GTA6unmoderated/comments/1vso75h/flash_cyberleek_has_the_full_developmental_built/	http_403
+https://cdn4.telesco.pe/file/95c0d86d6d.mp4?token=YJIXh6PjmjcBxJy913wFnQyJaegjO7jF10LIYrUqAwyXA8BEFcquZqAgtLVjtZtMwsqginJH5l7dJVH75JFXHR6Ti_ROnL1Xk6-WOxxf7DrQX-1-TFu8NQwKIp4fXWStt7Osjxk6J_UGu12rM2NhLC9puBLGR-y34JO4MvIvukTRrxLiO-KLaK3oATonIG5M-n7k23WsZ-CgD--uwSVIAMdWDBNkEbRl5VlP2tZcRKCcoJsXrnmaaY92_rFVhwIsEmqp7-L_Jy-VBYVp6CwRWZ-KuuCHEjNPECQLurzuMsZdTOYdkU6wW2HkFAqjRW-_dvrfBi5kc6TaIXEbAEWPIA	http_500
+https://kitty.work/#/register?code=oCI1jxas	request_failed
+https://free.datiya.com	request_failed
+
+=== 2026-08-20 04:37:55 - 失效订阅 (2 个) ===
+https://nodebuf.com/files/public/cmstm0gqy42uzr55wc807r1pl/download	http_429
+https://nodebuf.com/files/public/cmsym2msc0nwqdp5w5ax78hcf/download	http_429
